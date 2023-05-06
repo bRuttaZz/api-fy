@@ -1,0 +1,15 @@
+{
+  "name": "api-fy",
+  "version": "1.0.0",
+  "description": "A ready to use express js extension, to automate API documentation using swagger, and validating API inputs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swagger-ui-automation",
+    "node-swaggerui"
+  ],
+  "author": "bRUttaZz",
+  "license": "ISC"
+}
